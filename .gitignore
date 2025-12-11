@@ -1,0 +1,23 @@
+# Arduino
+*.elf
+*.hex
+*.bin
+*.lock
+*.map
+build/
+*.uf2
+
+# Visual Studio Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python (if used)
+__pycache__/
+*.py[cod]
