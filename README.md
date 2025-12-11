@@ -1,4 +1,11 @@
+![Arduino BTK Course Banner](assets/banner.png)
+
 # Arduino BTK Course Repository
+
+![License](https://img.shields.io/github/license/bahattinyunuscetin/arduino_btk_course?style=for-the-badge&color=blue)
+![Issues](https://img.shields.io/github/issues/bahattinyunuscetin/arduino_btk_course?style=for-the-badge&color=orange)
+![Pull Requests](https://img.shields.io/github/issues-pr/bahattinyunuscetin/arduino_btk_course?style=for-the-badge&color=green)
+![Stars](https://img.shields.io/github/stars/bahattinyunuscetin/arduino_btk_course?style=for-the-badge&color=yellow)
 
 Bu depo, BTK Akademi'deki Arduino ve Tinkercad kursları kapsamında geliştirilen projeleri ve kaynak kodları içerir.
 
